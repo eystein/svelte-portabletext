@@ -1,10 +1,7 @@
 {
   "name": "@portabletext/svelte",
-  "version": "2.1.1",
-  "homepage": "https://github.com/portabletext/svelte-portabletext#readme",
-  "bugs": {
-    "url": "https://github.com/portabletext/svelte-portabletext/issues"
-  },
+  "version": "2.1.2",
+  "homepage": "https://github.com/eystein/svelte-portabletext",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/eystein/svelte-portabletext.git"
